@@ -1,0 +1,10 @@
+{"observed_min":23,"occurred_min":22,"service":"objects","region":"north","flow":"all","kind":"fail","severity":"urgent","evidence":"store-1"}
+{"observed_min":25,"occurred_min":24,"service":"summarizer","region":"north","flow":"interactive","kind":"fail","severity":"urgent","evidence":"front-1"}
+{"observed_min":27,"occurred_min":25,"service":"search","region":"north","flow":"index","kind":"fail","severity":"normal","evidence":"crawl-1"}
+{"observed_min":28,"occurred_min":28,"service":"summarizer","region":"north","flow":"batch","kind":"independent","severity":"urgent","evidence":"batch-2"}
+{"observed_min":32,"occurred_min":29,"service":"summarizer","region":"north","flow":"interactive","kind":"fail","severity":"urgent","evidence":"front-2"}
+{"observed_min":34,"occurred_min":34,"service":"summarizer","region":"north","flow":"interactive","kind":"fail","severity":"urgent","evidence":"front-3"}
+{"observed_min":37,"occurred_min":34,"service":"objects","region":"north","flow":"all","kind":"recover","severity":"normal","evidence":"store-2"}
+{"observed_min":40,"occurred_min":39,"service":"search","region":"north","flow":"index","kind":"fail","severity":"urgent","evidence":"crawl-2"}
+{"observed_min":45,"occurred_min":45,"service":"summarizer","region":"north","flow":"interactive","kind":"recover","severity":"normal","evidence":"front-4"}
+{"observed_min":52,"occurred_min":51,"service":"search","region":"south","flow":"index","kind":"fail","severity":"normal","evidence":"crawl-3"}

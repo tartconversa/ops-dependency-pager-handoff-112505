@@ -1,0 +1,7 @@
+{"service":"objects","start_min":0,"end_min":35,"primary":"lin","backup":"fang","urgent_ack_min":5,"normal_ack_min":12,"normal_independent_min":16}
+{"service":"objects","start_min":35,"end_min":100,"primary":"zhou","backup":"fang","urgent_ack_min":5,"normal_ack_min":12,"normal_independent_min":16}
+{"service":"objects-b","start_min":0,"end_min":100,"primary":"he","backup":"fang","urgent_ack_min":5,"normal_ack_min":12,"normal_independent_min":16}
+{"service":"summarizer","start_min":0,"end_min":35,"primary":"wei","backup":"lin","urgent_ack_min":4,"normal_ack_min":10,"normal_independent_min":14}
+{"service":"summarizer","start_min":35,"end_min":100,"primary":"luo","backup":"zhou","urgent_ack_min":4,"normal_ack_min":10,"normal_independent_min":14}
+{"service":"search","start_min":0,"end_min":100,"primary":"qiu","backup":"lin","urgent_ack_min":5,"normal_ack_min":12,"normal_independent_min":16}
+{"service":"broker","start_min":0,"end_min":100,"primary":"zhao","backup":"wei","urgent_ack_min":4,"normal_ack_min":10,"normal_independent_min":14}

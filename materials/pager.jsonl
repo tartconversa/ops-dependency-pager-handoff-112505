@@ -1,0 +1,8 @@
+{"observed_min":25,"kind":"delivery","reference":"call-a","actor":"lin","scope":"objects/north/all","outcome":"sent"}
+{"observed_min":28,"kind":"delivery","reference":"call-a","actor":"lin","scope":"objects/north/all","outcome":"sent"}
+{"observed_min":31,"kind":"ack","reference":"call-a","actor":"lin","scope":"objects/north/all","outcome":"accepted"}
+{"observed_min":34,"kind":"delivery","reference":"call-b","actor":"wei","scope":"summarizer/north/batch","outcome":"sent"}
+{"observed_min":36,"kind":"ack","reference":"call-b","actor":"wei","scope":"summarizer/north/batch","outcome":"accepted"}
+{"observed_min":40,"kind":"delivery","reference":"call-c","actor":"zhou","scope":"objects/north/all","outcome":"sent"}
+{"observed_min":43,"kind":"ack","reference":"call-c","actor":"zhou","scope":"objects/north/all","outcome":"accepted"}
+{"observed_min":45,"kind":"ack","reference":"call-b","actor":"wei","scope":"summarizer/north/batch","outcome":"accepted"}

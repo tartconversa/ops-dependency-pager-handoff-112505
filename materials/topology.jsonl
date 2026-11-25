@@ -1,0 +1,5 @@
+{"service":"summarizer","dependency":"objects","region":"north","flow":"interactive","active_from_min":0,"active_to_min":30}
+{"service":"summarizer","dependency":"objects-b","region":"north","flow":"interactive","active_from_min":30,"active_to_min":120}
+{"service":"summarizer","dependency":"broker","region":"north","flow":"batch","active_from_min":0,"active_to_min":120}
+{"service":"search","dependency":"objects","region":"north","flow":"index","active_from_min":0,"active_to_min":120}
+{"service":"search","dependency":"objects-b","region":"south","flow":"index","active_from_min":0,"active_to_min":120}
